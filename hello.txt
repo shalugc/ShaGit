@@ -1,3 +1,5 @@
 Hello Git
 changed remotely
 branch code
+changes in branch code
+will now be merging into master
